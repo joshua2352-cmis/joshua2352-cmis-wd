@@ -9,10 +9,16 @@ git clone --config="http.proxy=http://joshua2352:cyr0killler@192.168.2.1:8080" h
  python -m SimpleHTTPServer makes a  locAL server
 
 
+tytpe into searchbar localhost:8000  opens local server 
+
+
 
 sftp josh2352@cmis-hsteacher  LOGS into kieffers comp 
  
+put * moves all files 
 
-tytpe into searchbar localhost:8000  opens local server 
+put *.txt moves all txt files to public html on sftpect
+
+rm "filename"   removes file from sftp 
 
 
