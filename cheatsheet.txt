@@ -2,9 +2,17 @@ git add filename                   creates repository
 git commit -m "Commit message"     saves locally 
 git push                          Saves to git hub 
 
-git clone --config="http.proxy=http://your-network-username:your-network-password@192.168.2.1:8080" https://github.com/your-github-username/your-github
--repository-name.git                 Clones repository  
+git clone --config="http.proxy=http://joshua2352:cyr0killler@192.168.2.1:8080" https://github.com/joshua2352-cmis/joshua2352-cmis-wd.git
+				                Clones my repository  
 
 
- python -m SimpleHTTPServer makes a server
+ python -m SimpleHTTPServer makes a  locAL server
+
+
+
+sftp josh2352@cmis-hsteacher  LOGS into kieffers comp 
+ 
+
+tytpe into searchbar localhost:8000  opens local server 
+
 
