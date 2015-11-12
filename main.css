@@ -3,20 +3,31 @@ color :red;
 font-size : 40px;
 }
 
-header2 {
+h2 {
 font-family: Impact, Charcoal, sans-serif;
 color :blue; 
-font-size :25px;
+font-size :29px;
 }
 Footer {
 font-size : 30px;
 font-style: italic;
 color :purple;
-}
-pg {
-color :green;
-font-size :25px;
-font-style :bold;
 
 }
+pg {
+color :black;
+font-size :25px;
+font-style :bold;
+background-color :red;
+border-style :dotted;
+font-weight :bold;
+font-family :"Comic Sans MS", cursive, sans-serif;
+
+}
+body {
+background-color :black;
+border-style :outset;
+border-color :yellow;
+border-width :20px;
+background-image:
 
