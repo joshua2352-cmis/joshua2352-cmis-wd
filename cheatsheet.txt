@@ -21,4 +21,15 @@ put *.txt moves all txt files to public html on sftpect
 
 rm "filename"   removes file from sftp 
 
+background-color :  ;   changes the color of the background
+border-style :   ;     changes style of the border
+border-color :   ;     changes color of the border
+border-width :   ;     changes width of border unit=px
+
+color :black;
+font-size :  px;        changes size of text 
+font-style :italic;    Makes selected text itallic 
+font-weight :bold;     makes selected text bold
+font-family :  ;      changes font use " " if font name is more than one word 
+  
 
