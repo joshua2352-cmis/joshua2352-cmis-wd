@@ -31,5 +31,16 @@ font-size :  px;        changes size of text
 font-style :italic;    Makes selected text itallic 
 font-weight :bold;     makes selected text bold
 font-family :  ;      changes font use " " if font name is more than one word 
+
+
+mkdir " file name " no quote marks      Makes subfolder
+
+cd ..    goes back one level
+
+cd goes back to home folder
+
+cd public.html  first step to log into the kiefs comp
+
+<a href="url">link text</a>     inserts linkj
   
 
