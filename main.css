@@ -1,36 +1,66 @@
 header {
-color :red;
-font-size : 40px;
-margin-left :500px;
+color :yellow;
+font-size : 30px;
+font-style :italic;
+font-weight :bold;
+font-family: Impact, Charcoal, sans-serif;
+background-color :purple;
 }
+
 
 h2 {
 font-family: Impact, Charcoal, sans-serif;
 color :blue; 
-font-size :29px;
-margin-left :200px;
+font-size :15px;
+background-color :red;
+font-style :italic;
 }
+h3 {
+font-family: Impact, Charcoal, sans-serif;
+color :blue; 
+font-size :15px;
+background-color :red;
+font-style :italic;
+}
+h4 {
+color :purple;
+font-size :23px;
+background-color :yellow;
+border-style : dashed;
+border-width :2px;
+border-color :purple yellow yellow yellow;
+
+}
+h5 {
+color: yellow;
+background-color :green;
+border-style : dotted;
+border-color :green green yellow green;
+font-size :18px;
+border-width :4px;
+}
+h6 {
+color :blue:
+font-size :23px;
+}
+h7 {
+color: yellow;
+background-color :green;
+border-style : dotted;
+border-color :green green yellow green;
+font-size :18px;
+border-width :4px;
+}
+
 Footer {
 font-size : 30px;
 font-style: italic;
 color :#FF00FF;
 margin-left :200px;
-
 }
-pg {
-color :black;
-font-size :25px;
-font-style :bold;
-background-color :red;
-border-style :dotted;
-font-weight :bold;
-font-family :"Comic Sans MS", cursive, sans-serif;
-margin-left :200px;
 
 
-}
 body {
-background-color :black;
 border-style :outset;
 border-color : #FF00FF orange red blue;
 border-width :20px;
