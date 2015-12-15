@@ -12,13 +12,13 @@ footer{
 clear:both;
 }
 p1{
-color :blue;
+margin-left:1500px;
 
 }
 body{
-background-color :#8BC046;
+background-color :;
 float:left;
-margin-left:20px;
+background-image:url("http://us.123rf.com/450wm/WDesigns/WDesigns1405/WDesigns140500002/28526885-an-abstract-background-and-frame-taking-inspiration-from-the-decorative-title-cards-of-classic-movie.jpg");
 
 }
 h1{
@@ -28,7 +28,7 @@ font-size : 48px;
 }
 img{
 border-style : dotted;
-border-color :blue red;
+border-color :blue;
 float:right;
 margin-right:201px;
 background-color:#8F3487;
