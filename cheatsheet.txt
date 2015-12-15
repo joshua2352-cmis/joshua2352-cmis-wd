@@ -11,7 +11,7 @@ git clone --config="http.proxy=http://joshua2352:cyr0killler@192.168.2.1:8080" h
 
 tytpe into searchbar localhost:8000  opens local server 
 
-
+ 
 
 sftp josh2352@cmis-hsteacher  LOGS into kieffers comp 
  

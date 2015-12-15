@@ -1,0 +1,40 @@
+nav {
+width:200px;
+color:blue;
+float:left;
+border-style : outset;
+border-color :blue green;
+}
+main {
+margin-left:206px;
+}
+footer{
+clear:both;
+}
+p1{
+color :blue;
+
+}
+body{
+background-color :#8BC046;
+float:left;
+margin-left:20px;
+
+}
+h1{
+background-color :#D2644D;
+font-size : 48px;
+
+}
+img{
+border-style : dotted;
+border-color :blue red;
+float:right;
+margin-right:201px;
+background-color:#8F3487;
+}
+
+
+
+
+
